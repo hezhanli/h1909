@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xiaoshu.dao.EmpMapper">
+  <resultMap id="BaseResultMap" type="com.xiaoshu.entity.Emp">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="name" jdbcType="VARCHAR" property="name" />
+    <result column="sex" jdbcType="VARCHAR" property="sex" />
+    <result column="age" jdbcType="INTEGER" property="age" />
+    <result column="address" jdbcType="VARCHAR" property="address" />
+    <result column="img" jdbcType="VARCHAR" property="img" />
+    <result column="birthday" jdbcType="DATE" property="birthday" />
+    <result column="shengid" jdbcType="INTEGER" property="shengid" />
+    <result column="sid" jdbcType="INTEGER" property="sid" />
+    <result column="xid" jdbcType="INTEGER" property="xid" />
+    <result column="did" jdbcType="INTEGER" property="did" />
+  </resultMap>
+</mapper>
