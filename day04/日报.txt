@@ -29,7 +29,7 @@ iconCls：样式
 
 面试题：
 12.final、finally、finalize 的区别？
-13.异常的解决方式？
+13.异常的解决方式？ 
 14.java 类加载机制
 15.java 何时进行类的加载
 
