@@ -1,0 +1,12 @@
+学习内容：
+	技能：练习ssm增删改查导出
+
+理论：（背会以下四道面试题）
+
+20.如何保证 java 集合的线程安全？
+
+21.MySQL 的关键字和常用聚合函数有哪些？
+
+22.简述	Set 、HashSet 、LinkedHashSet 、TreeSet 、ConcurrentHashSet、ConcurrentSkipListSet 的异同？
+
+23.过滤器和拦截器的区别？
