@@ -1,0 +1,16 @@
+今日学习内容：
+	技能：
+	导出
+	导入
+	报表
+	mq
+	redis
+
+	理论：（背会并抄写两遍）
+	springMVC 工作原理？
+
+	Spring 框架的理解？
+
+	spring 的 IOC 原理？
+
+	spring 的 AOP 原理？
