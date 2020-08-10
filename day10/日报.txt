@@ -1,0 +1,10 @@
+学习内容：练习增删改查 学习导入导出
+	技能：练习增删改查
+	理论：（背会）
+36.spring 中 bean 的作用域有哪些？
+
+37.mybatis 的特点？
+
+38.JavaScript window.onload 事件和 jQuery ready 函数有何不同？
+
+39.SQL 的连接查询？左外连接和右外连接的区别？
